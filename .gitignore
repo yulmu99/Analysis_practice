@@ -2,3 +2,7 @@
 datas
 fonts
 titanic
+catboost_info
+
+.venv
+__pycache__
